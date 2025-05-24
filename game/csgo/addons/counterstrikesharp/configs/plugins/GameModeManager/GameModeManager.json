@@ -8,7 +8,7 @@
     "HudMenu": false,
     "MinRounds": 0,
     "MinPlayers": 1,
-    "VoteDuration": 60,
+    "VoteDuration": 20,
     "OptionsToShow": 6,
     "VotePercentage": 51,
     "OptionsInCoolDown": 3,
@@ -23,7 +23,7 @@
     "HideHudAfterVote": false,
     "NominationEnabled": true,
     "MaxNominationWinners": 1,
-    "ChangeImmediately": false,
+    "ChangeImmediately": true,
     "TriggerKillsBeforeEnd": 13,
     "TriggerRoundsBeforeEnd": 2,
     "TriggerSecondsBeforeEnd": 120
@@ -48,7 +48,7 @@
   },
   "Warmup": {
     "Enabled": false,
-    "Time": 0,
+    "Time": 15,
     "PerMap": false,
     "Default": {},
     "List": []
@@ -92,12 +92,11 @@
   "GameModes": {
     "Style": "center",
     "Default": {
-      "Name": "Casual",
-      "Config": "casual.cfg",
-      "DefaultMap": null,
+      "Name": "Retakes",
+      "Config": "retake.cfg",
+      "DefaultMap": "de_dust2",
       "MapGroups": [
-        "mg_active",
-        "mg_comp"
+        "mg_retake"
       ]
     },
     "MapGroupFile": "gamemodes_server.txt",

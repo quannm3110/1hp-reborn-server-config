@@ -468,13 +468,6 @@
       "Team": 2,
       "Bombsite": 1,
       "CanBePlanter": false
-    },
-    {
-      "Vector": "-2633.048584 480.615601 11755.684570",
-      "QAngle": "0.000000 -51.686554 0.000000",
-      "Team": 2,
-      "Bombsite": 1,
-      "CanBePlanter": false
     }
   ]
 }

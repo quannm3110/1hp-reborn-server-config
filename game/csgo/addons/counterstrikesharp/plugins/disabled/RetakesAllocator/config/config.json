@@ -74,12 +74,12 @@
             "Terrorist": {
                 "Pistol": "Two",
                 "HalfBuy": "Three",
-                "FullBuy": "Three"
+                "FullBuy": "Four"
             },
             "CounterTerrorist": {
                 "Pistol": "Two",
                 "HalfBuy": "Three",
-                "FullBuy": "Three"
+                "FullBuy": "Four"
             }
         }
     },
@@ -125,7 +125,7 @@
         "CounterTerrorist": 1
     },
     "EnableCanAcquireHook": true,
-    "LogLevel": "Information",
+    "LogLevel": "Error",
     "ChatMessagePluginName": "Retakes",
     "ChatMessagePluginPrefix": null,
     "InGameGunMenuCenterCommands": "gunsmenu,gunmenu,!gunmenu,!gunsmenu,!menugun,!menuguns,/gunsmenu,/gunmenu",

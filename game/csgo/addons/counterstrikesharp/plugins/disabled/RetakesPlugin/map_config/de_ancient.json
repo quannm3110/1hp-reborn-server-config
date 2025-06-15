@@ -71,6 +71,62 @@
       "CanBePlanter": false
     },
     {
+      "Vector": "-284.031860 -806.058716 37.402142",
+      "QAngle": "0.000000 -176.361115 0.000000",
+      "Team": 3,
+      "Bombsite": 0,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "-1339.912720 -1482.065918 -23.255737",
+      "QAngle": "0.000000 133.676483 0.000000",
+      "Team": 3,
+      "Bombsite": 0,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "-66.032349 1771.968750 37.465714",
+      "QAngle": "0.000000 -147.140930 0.000000",
+      "Team": 3,
+      "Bombsite": 0,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "-390.031250 307.988312 175.031250",
+      "QAngle": "0.000000 -175.934372 0.000000",
+      "Team": 3,
+      "Bombsite": 0,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "-1040.259033 -855.942139 35.724121",
+      "QAngle": "0.000000 67.328003 0.000000",
+      "Team": 3,
+      "Bombsite": 0,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "-2143.968506 -820.031250 -19.968750",
+      "QAngle": "0.000000 0.636520 0.000000",
+      "Team": 3,
+      "Bombsite": 0,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "-664.384460 913.965027 106.716476",
+      "QAngle": "0.000000 -33.901062 0.000000",
+      "Team": 3,
+      "Bombsite": 0,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "93.968750 582.031616 91.815811",
+      "QAngle": "0.000000 135.783112 0.000000",
+      "Team": 3,
+      "Bombsite": 0,
+      "CanBePlanter": false
+    },
+    {
       "Vector": "-1,226.28 729.97 56.03",
       "QAngle": "0.00 178.12 0.00",
       "Team": 2,
@@ -108,6 +164,62 @@
     {
       "Vector": "-1,466.50 1,148.96 97.45",
       "QAngle": "0.00 45.27 0.00",
+      "Team": 2,
+      "Bombsite": 0,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "-1461.455811 274.824646 135.219543",
+      "QAngle": "0.000000 -51.214142 0.000000",
+      "Team": 2,
+      "Bombsite": 0,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "-1999.363770 1112.678223 76.565308",
+      "QAngle": "0.000000 -106.830711 0.000000",
+      "Team": 2,
+      "Bombsite": 0,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "-1768.703125 380.031403 191.973251",
+      "QAngle": "0.000000 171.744812 0.000000",
+      "Team": 2,
+      "Bombsite": 0,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "-1829.838989 540.032166 52.031250",
+      "QAngle": "0.000000 155.680725 0.000000",
+      "Team": 2,
+      "Bombsite": 0,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "-1280.032104 1122.031250 99.298241",
+      "QAngle": "0.000000 123.219238 0.000000",
+      "Team": 2,
+      "Bombsite": 0,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "-2143.968750 1227.968140 131.904572",
+      "QAngle": "0.000000 -74.052315 0.000000",
+      "Team": 2,
+      "Bombsite": 0,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "-1044.029663 670.031250 81.031250",
+      "QAngle": "0.000000 96.677277 0.000000",
+      "Team": 2,
+      "Bombsite": 0,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "-1282.032837 371.968750 90.019310",
+      "QAngle": "0.000000 -87.665062 0.000000",
       "Team": 2,
       "Bombsite": 0,
       "CanBePlanter": false
@@ -190,6 +302,55 @@
       "CanBePlanter": false
     },
     {
+      "Vector": "512.029358 -1466.531250 -0.992981",
+      "QAngle": "0.000000 1.438171 0.000000",
+      "Team": 3,
+      "Bombsite": 1,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "1255.968506 -1479.968750 30.014301",
+      "QAngle": "0.000000 104.750519 0.000000",
+      "Team": 3,
+      "Bombsite": 1,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "338.031250 -736.031860 186.031250",
+      "QAngle": "0.000000 -12.958710 0.000000",
+      "Team": 3,
+      "Bombsite": 1,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "53.855713 -676.031372 159.148193",
+      "QAngle": "0.000000 -168.160522 0.000000",
+      "Team": 3,
+      "Bombsite": 1,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "-652.967590 307.982117 175.031250",
+      "QAngle": "0.000000 75.632294 0.000000",
+      "Team": 3,
+      "Bombsite": 1,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "-70.031616 1018.031250 70.031250",
+      "QAngle": "0.000000 133.733490 0.000000",
+      "Team": 3,
+      "Bombsite": 1,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "-445.944214 443.887909 161.776581",
+      "QAngle": "0.000000 118.914978 0.000000",
+      "Team": 3,
+      "Bombsite": 1,
+      "CanBePlanter": false
+    },
+    {
       "Vector": "797.17 4.97 131.40",
       "QAngle": "0.00 -30.60 0.00",
       "Team": 2,
@@ -241,6 +402,62 @@
     {
       "Vector": "1,036.46 259.77 131.03",
       "QAngle": "0.00 49.41 0.00",
+      "Team": 2,
+      "Bombsite": 1,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "464.031250 292.967651 154.112610",
+      "QAngle": "0.000000 -89.076462 0.000000",
+      "Team": 2,
+      "Bombsite": 1,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "601.971130 -36.031311 180.031250",
+      "QAngle": "0.000000 -100.838013 0.000000",
+      "Team": 2,
+      "Bombsite": 1,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "320.035645 -182.968750 211.970642",
+      "QAngle": "0.000000 -13.497742 0.000000",
+      "Team": 2,
+      "Bombsite": 1,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "572.031250 400.438293 125.200478",
+      "QAngle": "0.000000 94.939026 0.000000",
+      "Team": 2,
+      "Bombsite": 1,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "1395.943237 516.031616 131.830460",
+      "QAngle": "0.000000 163.453217 0.000000",
+      "Team": 2,
+      "Bombsite": 1,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "670.689880 73.536362 134.031250",
+      "QAngle": "0.000000 -2.400513 0.000000",
+      "Team": 2,
+      "Bombsite": 1,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "951.935364 -263.965271 129.030975",
+      "QAngle": "0.000000 55.946503 0.000000",
+      "Team": 2,
+      "Bombsite": 1,
+      "CanBePlanter": false
+    },
+    {
+      "Vector": "1178.030518 552.860901 129.412903",
+      "QAngle": "0.000000 -168.212357 0.000000",
       "Team": 2,
       "Bombsite": 1,
       "CanBePlanter": false

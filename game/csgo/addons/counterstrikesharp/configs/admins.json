@@ -1,1 +1,56 @@
-{}
+{
+    "Kus": {
+        "identity": "76561198136431320",
+        "groups": [
+            "#css/admin"
+        ]
+    },
+    "Kus smurf": {
+        "identity": "76561197967748121",
+        "groups": [
+            "#css/admin"
+        ]
+    },
+    "Murc": {
+        "identity": "76561198182089005",
+        "groups": [
+            "#css/moderator"
+        ]
+    },
+    "Dunx": {
+        "identity": "",
+        "groups": [
+            "#css/moderator"
+        ]
+    },
+    "Def": {
+        "identity": "",
+        "groups": [
+            "#css/moderator"
+        ]
+    },
+    "mike": {
+        "identity": "",
+        "groups": [
+            "#css/moderator"
+        ]
+    },
+    "hudz": {
+        "identity": "",
+        "groups": [
+            "#css/moderator"
+        ]
+    },
+    "gino": {
+        "identity": "",
+        "groups": [
+            "#css/moderator"
+        ]
+    },
+    "vip": {
+        "identity": "",
+        "groups": [
+            "#css/vip"
+        ]
+    }
+}

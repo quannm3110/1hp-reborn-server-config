@@ -1,20 +1,20 @@
 {
   "Version": 11,
-  "MaxPlayers": 9,
+  "MaxPlayers": 10,
   "TerroristRatio": 0.45,
-  "RoundsToScramble": 5,
+  "RoundsToScramble": 1,
   "IsScrambleEnabled": true,
   "EnableFallbackAllocation": false,
-  "EnableBombsiteAnnouncementVoices": true,
+  "EnableBombsiteAnnouncementVoices": false,
   "EnableBombsiteAnnouncementCenter": true,
   "ShouldBreakBreakables": false,
   "ShouldOpenDoors": false,
   "IsAutoPlantEnabled": true,
   "QueuePriorityFlag": "@css/vip",
   "IsDebugMode": false,
-  "ShouldForceEvenTeamsWhenPlayerCountIsMultipleOf10": true,
+  "ShouldForceEvenTeamsWhenPlayerCountIsMultipleOf10": false,
   "EnableFallbackBombsiteAnnouncement": true,
   "ShouldRemoveSpectators": true,
   "IsBalanceEnabled": true,
-  "ShouldPreventTeamChangesMidRound": true
+  "ShouldPreventTeamChangesMidRound": false
 }
